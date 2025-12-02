@@ -1,0 +1,54 @@
+#include "/home/tarsproto/XGame/Comm/JFGame.tars"
+
+module order
+{
+    struct ModifyWalletBalanceReq
+    {
+        0 require long uid;
+        1 require long type;
+        2 require long amount;
+        3 require string roomkey;
+    };
+
+    struct ModifyWalletBalanceResp
+    {
+        0 require int ret;
+        1 require long uid;
+        2 require long amount;
+        3 require long balance;
+    };
+
+    /**
+    *
+    */   
+    interface OrderServant
+    {
+        //http请求处理接口
+        int doRequestJson(string reqBuf, string urlKey, out string rspBuf);
+
+        //tcp请求处理接口
+        int onRequest(long lUin, string sMsgPack, string sCurServrantAddr, JFGame::TClientParam stClientParam, JFGame::UserBaseInfoExt stUserBaseInfo);
+
+        //后台扣除
+        int takeRecharge(long Uid, string sDesc, string sOptUser, vector<long> vecUid, map<long, long> mapRecharge);
+        //后台赠送
+        int giveRecharge(long Uid, string sDesc, string sOptUser, vector<long> vecUid, map<long, long> mapRecharge);
+        //人工充值
+        int manualRecharge(long lUin, long lCid, map<long, long> mapRecharge, map<long, long> mapRealRecharge);
+
+        //创建订单
+        int createOrder(map<string, string> mapOrderInfo);
+
+        //更新订单
+        int updateOrder(map<string, string> mapOrderInfo);
+
+        //绑定成功通知
+        int bindWalletNotify(long lUin);
+
+        //更新余额
+        int modifyWalletBalance(ModifyWalletBalanceReq req, out ModifyWalletBalanceResp resp);
+
+        //查询余额
+        long selectWalletBalance(long lUin);
+    };
+}; 
