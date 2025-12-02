@@ -1,5 +1,5 @@
 # Texas-Hold-em-source-code
-德州扑克源码，德州源码，可以直接部署运营的源码，高流水刚停服；有私人局+俱乐部+联盟+经典德州+短牌+大菠萝+奥玛哈+AOF+MTT+SNG+牛仔源码
+德州扑克源码，德州源码，可以直接部署运营的源码，高流水刚停服；有私人局+俱乐部+联盟+经典德州+短牌+大菠萝+奥玛哈+AOF+MTT+SNG+牛仔源码；邮箱：ttpoker40@gmail.com
 
 
 ![07个人中心](https://github.com/user-attachments/assets/4a376f3f-be6f-4bb4-8493-ae612868493a)
