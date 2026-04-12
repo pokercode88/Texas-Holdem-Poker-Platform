@@ -4,6 +4,12 @@
 🔥 Commercial license available ｜ 支持商用 ｜ 支援商用
 🔥 Multiplayer real-time game ｜ 实时多人 ｜ 即時多人
 🔥 iOS / Android / Web supported
+🔥 Production-ready Texas Hold'em Poker Platform
+🔥 Already used in real poker projects
+🔥 Start your own profitable poker business in days
+🔥 生产级德州扑克平台
+🔥 已应用于真实扑克项目
+🔥 几天即可搭建自己的盈利扑克平台
 
 Texas Hold'em poker source code for building a complete online poker platform.
 德州扑克完整源码，支持搭建在线棋牌平台。
@@ -37,7 +43,14 @@ Suitable for:
 * ✅ Club / tournament system ｜ 俱乐部/比赛 ｜ 俱樂部/比賽
 
 ---
-
+## 🧩 System Modules | 系统模块 | 系統模組
+- 🎮 Game Engine (核心游戏逻辑)
+- 📱 Mobile & Web Client
+- 🏠 Club System
+- 🏆 Tournament System
+- 💰 Payment & Rake System
+- 🛠 Admin Panel
+- 📊 Statistics & Analytics
 ## 📦 Tech Stack | 技术架构 | 技術架構
 
 * C++ (Game Logic 核心逻辑 核心邏輯)
@@ -46,7 +59,17 @@ Suitable for:
 * MySQL / Redis
 
 ---
+## ⚙️ Technical Highlights | 技术亮点 | 技術亮點
+- ⚡ Real-time multiplayer engine
+- 📡 Low latency networking
+- 🔒 Anti-cheat & secure payment
+- 🧩 Scalable backend for high concurrency
 
+## 💰 Monetization Model | 盈利模式 | 盈利模式
+- ✔ Game rake (抽水)
+- ✔ Tournament fees (报名费)
+- ✔ Club system revenue (俱乐部收益)
+- 
 ## 🎯 What You Get | 你将获得 | 您將獲得
 
 * Full source code ｜ 完整源码 ｜ 完整源碼
