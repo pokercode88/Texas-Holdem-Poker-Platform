@@ -1,14 +1,14 @@
-# 🃏 Texas Hold'em Poker Source Code（德州扑克源码）
+# 🃏 Texas Hold'em Poker Source Code（德州扑克源码）|德州撲克|德州俱樂部源碼，德州遊戲源碼|有朋友局私人局+俱乐部+联盟+经典德州+短牌+大菠萝+奥玛哈+AOF+MTT+SNG+牛仔源码
 
 [English](#english) | [简体中文](#简体中文) | [繁體中文](#繁體中文)
 
 ---
-
+支持五种不同语言，（中文简体，繁体，英文，马来西亚，韩文）
 ## 🚀 项目介绍（简体中文）
 
 本项目为一套完整的 **德州扑克（Texas Hold'em）源码**，适用于：
 
-* 棋牌游戏开发
+* 德州游戏开发
 * 棋牌游戏创业
 * 海外市场（Poker / Casino）
 * 二次开发 / 定制开发
@@ -27,7 +27,7 @@
 
 * C++（核心游戏逻辑）
 * Node.js（网关服务器）
-* WebSocket（实时通信）
+* Socket（实时通信）
 * MySQL / Redis（数据存储）
 
 ---
@@ -42,15 +42,20 @@
 
 ## 📸 项目展示
 
-（建议你这里放游戏截图）
+![02大厅](https://github.com/user-attachments/assets/b1a1fa12-cb61-48f9-9bbd-313f7d260d52)
+![01登录](https://github.com/user-attachments/assets/0a2b07c2-290a-4817-9c8b-d979f10fce6f)
+![07个人中心](https://github.com/user-attachments/assets/694ec84c-e8c9-45cf-9454-84be3e9f2c6a)
+![06牌局](https://github.com/user-attachments/assets/b80ba8aa-7f7d-44c5-9a49-b9b3e6507592)
+![05创建牌局](https://github.com/user-attachments/assets/cab18d93-48ae-483d-a886-2495729bd2d9)
+![04俱乐部](https://github.com/user-attachments/assets/5bad2e65-ed99-4d46-a5ed-79a6473643ef)
+![03大厅](https://github.com/user-attachments/assets/dc1e3e67-7b6d-4d25-9d77-ea692d7113b6)
 
 ---
 
 ## 💰 获取源码 / 联系方式
 
-📧 Email: [your@email.com](mailto:your@email.com)
-💬 Telegram: your_telegram
-🟢 WhatsApp: your_whatsapp
+📧 Email: ttpoker40@gmail.com
+💬 Telegram: @alibabama401
 
 ---
 
@@ -74,7 +79,7 @@ This is a complete **Texas Hold'em Poker Source Code**, suitable for:
 ### ✨ Features
 
 * ✅ Full source code (Server + Client)
-* ✅ Real-time multiplayer (WebSocket)
+* ✅ Real-time multiplayer (Socket)
 * ✅ High-performance C++ game engine
 * ✅ Easy to customize
 * ✅ Scalable (club / tournament / AI)
@@ -85,7 +90,7 @@ This is a complete **Texas Hold'em Poker Source Code**, suitable for:
 
 * C++
 * Node.js
-* WebSocket
+* Socket
 * MySQL / Redis
 
 ---
@@ -98,25 +103,15 @@ This is a complete **Texas Hold'em Poker Source Code**, suitable for:
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots here)
-
----
 
 ## 💰 Contact
 
-📧 Email: [your@email.com](mailto:your@email.com)
-💬 Telegram: your_telegram
-🟢 WhatsApp: your_whatsapp
+📧 Email: ttpoker40@gmail.com
+💬 Telegram: @alibabama401
 
 ---
 
-## ⚠️ Disclaimer
 
-For educational purposes only.
-
----
 
 # 繁體中文
 
@@ -143,7 +138,7 @@ For educational purposes only.
 
 * C++
 * Node.js
-* WebSocket
+* Socket
 * MySQL / Redis
 
 ---
@@ -156,17 +151,12 @@ For educational purposes only.
 
 ---
 
-## 📸 展示
-
-（請放圖片）
-
----
 
 ## 💰 聯絡方式
 
-📧 Email: [your@email.com](mailto:your@email.com)
-💬 Telegram: your_telegram
-🟢 WhatsApp: your_whatsapp
+📧 Email: ttpoker40@gmail.com
+💬 Telegram: @alibabama401
+
 
 ---
 
@@ -174,18 +164,5 @@ For educational purposes only.
 
 僅供學習用途，請遵守法律法規。
 
----
 
 
-
-Texas Hold'em source code；德州扑克源码，德州源码，德州撲克，德撲源碼，德州源碼，德州俱樂部源碼，德州遊戲源碼；德州扑克，德扑源码，德州源码，德州俱乐部源码，德州游戏源码
-
-TG：@alibabama401；可以直接部署运营的源码，高流水刚停服；有朋友局私人局+俱乐部+联盟+经典德州+短牌+大菠萝+奥玛哈+AOF+MTT+SNG+牛仔源码；邮箱：ttpoker40@gmail.com
-
-![02大厅](https://github.com/user-attachments/assets/b1a1fa12-cb61-48f9-9bbd-313f7d260d52)
-![01登录](https://github.com/user-attachments/assets/0a2b07c2-290a-4817-9c8b-d979f10fce6f)
-![07个人中心](https://github.com/user-attachments/assets/694ec84c-e8c9-45cf-9454-84be3e9f2c6a)
-![06牌局](https://github.com/user-attachments/assets/b80ba8aa-7f7d-44c5-9a49-b9b3e6507592)
-![05创建牌局](https://github.com/user-attachments/assets/cab18d93-48ae-483d-a886-2495729bd2d9)
-![04俱乐部](https://github.com/user-attachments/assets/5bad2e65-ed99-4d46-a5ed-79a6473643ef)
-![03大厅](https://github.com/user-attachments/assets/dc1e3e67-7b6d-4d25-9d77-ea692d7113b6)
